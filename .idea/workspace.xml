@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b2e7d5d-cfb2-4d27-b350-752a51e822be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eSM5sLeNdqqFS6P2QmNwDRnctY" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTests.loginTest">
+    <configuration name="ConfigurationReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weborders.utilities.ConfigurationReader" />
+      <module name="WebOrdersAutomationSpring2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weborders.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebOrdersAutomationSpring2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weborders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weborders.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.weborders.tests.LoginTests" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTests.createOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebOrdersAutomationSpring2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weborders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.weborders.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.weborders.tests.OrderTests" />
+      <option name="METHOD_NAME" value="createOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTests.loginTest" />
+        <item itemvalue="TestNG.OrderTests.createOrder" />
+        <item itemvalue="Application.ConfigurationReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b2e7d5d-cfb2-4d27-b350-752a51e822be" name="Default Changelist" comment="" />
+      <created>1594310360780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594310360780</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594315137450">
+      <screen x="0" y="0" width="1440" height="832" />
+    </state>
+    <state x="369" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.832@0.0.1440.832" timestamp="1594315137450" />
+    <state x="369" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.809@0.23.1440.809" timestamp="1594314997685" />
+    <state width="775" height="61" key="GridCell.Tab.0.bottom" timestamp="1595257763609">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="61" key="GridCell.Tab.0.bottom/0.0.1440.832@0.0.1440.832" timestamp="1595135965981" />
+    <state width="775" height="61" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1595139499273" />
+    <state width="775" height="61" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1595257763609" />
+    <state width="775" height="61" key="GridCell.Tab.0.center" timestamp="1595257763608">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="61" key="GridCell.Tab.0.center/0.0.1440.832@0.0.1440.832" timestamp="1595135965979" />
+    <state width="775" height="61" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1595139499272" />
+    <state width="775" height="61" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1595257763608" />
+    <state width="775" height="61" key="GridCell.Tab.0.left" timestamp="1595257763607">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="61" key="GridCell.Tab.0.left/0.0.1440.832@0.0.1440.832" timestamp="1595135965977" />
+    <state width="775" height="61" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1595139499271" />
+    <state width="775" height="61" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1595257763607" />
+    <state width="775" height="61" key="GridCell.Tab.0.right" timestamp="1595257763609">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="61" key="GridCell.Tab.0.right/0.0.1440.832@0.0.1440.832" timestamp="1595135965980" />
+    <state width="775" height="61" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1595139499272" />
+    <state width="775" height="61" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1595257763609" />
+    <state x="0" y="66" key="SettingsEditor" timestamp="1594498366215">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="0" y="66" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1594498366215" />
+    <state x="0" y="127" key="new project wizard" timestamp="1594577882515">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="0" y="127" key="new project wizard/0.23.1440.809@0.23.1440.809" timestamp="1594577882515" />
+  </component>
+</project>
